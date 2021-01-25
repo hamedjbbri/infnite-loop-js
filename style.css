@@ -31,6 +31,7 @@ h1 {
 .filter {
     width: 100%;
     padding: 12px;
+    font-size: 16px;
 }
 
 .filter:focus {
@@ -48,11 +49,7 @@ h1 {
     width: 80vw;
     max-width: 800px;
 }
-
-#post-container {
-    display: contents; 
-}
-
+ 
 .post .post-title {
     margin: 0;
 
